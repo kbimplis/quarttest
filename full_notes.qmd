@@ -10,7 +10,9 @@ format:
     fontsize: 11pt
     linestretch: 1.15
     pagestyle: plain
-    toc: false
+    toc: true
+    toc-title: "CONTENTS"
+    toc-depth: 2
     number-sections: false
     colorlinks: false
     include-in-header:
@@ -20,6 +22,7 @@ format:
         \usepackage{array}
         \usepackage{longtable}
         \usepackage{booktabs}
+        \usepackage[table]{xcolor}
         \usepackage{ragged2e}
         \usepackage{enumitem}
         \setlistdepth{15}
@@ -46,109 +49,12 @@ Declassification Authority RF 74365
 \rightline{\small 1}
 
 {{< pagebreak >}}
+
 # THE HISTORY OF NLP
 
 ![img-0.jpeg](assets/p0003_page_003_img-0.jpg)
 
 {{< pagebreak >}}
-\rightline{\small 2}
-
-# CONTENTS
-
-Welcome... 1
-Contents... 2
-Trainings... 5
-Definition of NLP... 6
-NLP Communication Model... 7
-Five Principles For Success... 8
-State -Vs- Goal... 9
-Keys To An Achievable Outcome... 10
-Well Formedness Conditions... 11
-The Presuppositions Of NLP... 12
-Prime Directives Of The Unconscious Mind... 13
-Observing Other People... 15
-Rapport... 16
-Representational Systems Preference Test... 17
-Predicates... 19
-List Of Predicate Phrases... 20
-Favored Representational Systems... 20
-Intonation Patterns... 22
-Eye Pattern Chart... 23
-Eye Pattern Questions... 24
-Submodalities Points... 25
-Examples Of Triggers In NLP Contexts... 26
-Submodalities Like To Dislike Script... 27
-Submodalities Belief Change Script... 28
-Swish Patterns... 32
-SubModalities Swish Pattern Script... 33
-The Conscious Use Of Language... 34
-
-{{< pagebreak >}}
-THE FASTRAK NLP PRACTITIONER CERTIFICATION TRAINING
-
-# CONTENTS
-
-Presuppositions ... 35
-"Thimk" ... 38
-Hierarchy Of Ideas ... 39
-Milton Model ... 39
-Metaphor Outline ... 43
-The Meta Model ... 45
-Anchoring ... 46
-State Elicitation Script ... 47
-States For Stacking Anchors ... 47
-Collapse Anchors ... 48
-Chaining Anchors ... 49
-New Orleans Flexibility Drill ... 50
-NLP Change Personal History ... 51
-Physiology Of Excellence ... 52
-Strategies ... 53
-Strategies ... 54
-T.O.T.E. Model Of Strategies ... 55
-Strategies ... 56
-Strategies ... 57
-Representational Systems ... 58
-Motivation Strategies ... 59
-Strategies ... 60
-Learning Strategies ... 61
-Spelling Strategies ... 62
-Spelling Strategies ... 63
-NLP Notation ... 64
-Strategy Elicitation ... 65
-Strategy Elicitation ... 66
-Reframing ... 67
-Six-Step Reframe ... 68
-Meta Model III ... 71
-
-{{< pagebreak >}}
-\rightline{\small 4}
-
-# CONTENTS
-
-NLP Model of Therapy ... 72
-Parts Integration ... 73
-Dissociative Technique ... 74
-Elicitation Of The Time Line #1 ... 74
-First Test Of Elicitation ... 75
-Discovering The Root Cause ... 77
-Negative Emotions #1 ... 78
-The 3 Things To Check At Position #3 ... 79
-General Reframes ... 80
-Steps For Putting A Single Goal In Your Future ... 81
-Fast Phobia Model ... 82
-Suggested Family Therapy Model ... 83
-The 5 Step Sales Process ... 85
-Negotiating—Influencing ... 88
-The Meeting Format ... 92
-Certification Standards ... 95
-What is NLP ... 99
-An Introduction To NLP ... 102
-List of Predicates ... 106
-List Of Predicate Phrases ... 107
-Strategies ... 114
-
-{{< pagebreak >}}
-\rightline{\small 5}
 
 # LEVELS OF PERSONAL DEVELOPMENT
 
@@ -206,7 +112,22 @@ In other words, NLP is how to use the language of the mind to consistently achie
 
 # STATE-VS-GOAL
 
-<table><tr><th>VALUE OR STATE</th><th>GOAL OR OUTCOME</th></tr><tr><td>Stated ambiguously</td><td>Stated specifically</td></tr><tr><td>Write affirmations</td><td>Write goals/outcomes</td></tr><tr><td>You can have it now</td><td>Time is involved</td></tr><tr><td>No steps</td><td>Steps needed to get there<br/>(Get final step and work backwards)</td></tr><tr><td>Infinite</td><td>Measurable</td></tr><tr><td>Stated for self and/or others</td><td>Stated for self only</td></tr></table>
+-----------------------------------------------------------------------
+  VALUE OR STATE                      GOAL OR OUTCOME
+  ----------------------------------- -----------------------------------
+  Stated ambiguously                  Stated specifically
+
+  Write affirmations                  Write goals/outcomes
+
+  You can have it now                 Time is involved
+
+  No steps                            Steps needed to get there\
+                                      (Get final step and work backwards)
+
+  Infinite                            Measurable
+
+  Stated for self and/or others       Stated for self only
+  -----------------------------------------------------------------------
 
 {{< pagebreak >}}
 \rightline{\small 10}
@@ -374,25 +295,26 @@ UR-WORLD
 
 Basis: Modeling Milton Erickson, the creators of NLP observed that people make minute changes from moment to moment, and that those changes have meaning if you have enough Sensory Acuity.
 
-1.  Skin Color
-Light --- Dark
+1.  **Skin Color**\
+    Light --- Dark
 
-2.  Skin Tonus (The Tone of the Muscles – Look for the Shine)
-Symmetrical --- Not Symmetrical
+2.  **Skin Tonus** (The Tone of the Muscles – Look for the Shine)\
+    Symmetrical --- Not Symmetrical
 
-3.  Breathing
-Rate
-Fast --- Slow
-Location
-High --- Low
+3.  **Breathing**\
+    *Rate*\
+    Fast --- Slow\
+    *Location*\
+    High --- Low
 
-4.  Lower Lip Size
-Lines --- No Lines
+4.  **Lower Lip Size**\
+    Lines --- No Lines
 
-5.  Eyes
-Focus
-Focused --- Defocused
-Dilated --- Pupil Dilation --- Undilated
+5.  **Eyes**\
+    *Focus*\
+    Focused --- Defocused\
+    *Pupil Dilation*\
+    Dilated --- Undilated
 
 {{< pagebreak >}}
 \rightline{\small 16}
@@ -483,62 +405,143 @@ For each of the following statements, please place a number next to every phrase
 
 # REP SYSTEM TEST PAGE 2
 
-Step One: Copy your answers from the previous page to here:
+**Step One:** Copy your answers from the previous page to here:
 
-1.  K
-A
-V
-Ad
+```{=latex}
+\newcommand{\rsblank}{\rule{4em}{0.4pt}}
+\noindent
+\begin{tabular}{@{}p{0.30\textwidth}p{0.30\textwidth}p{0.30\textwidth}@{}}
+\textbf{1.} \rsblank\,K\newline\hspace*{1em}\rsblank\,A\newline\hspace*{1em}\rsblank\,V\newline\hspace*{1em}\rsblank\,Ad
+&
+\textbf{2.} \rsblank\,A\newline\hspace*{1em}\rsblank\,V\newline\hspace*{1em}\rsblank\,Ad\newline\hspace*{1em}\rsblank\,K
+&
+\textbf{3.} \rsblank\,V\newline\hspace*{1em}\rsblank\,K\newline\hspace*{1em}\rsblank\,Ad\newline\hspace*{1em}\rsblank\,A
+\\[1.5em]
+\textbf{4.} \rsblank\,A\newline\hspace*{1em}\rsblank\,Ad\newline\hspace*{1em}\rsblank\,K\newline\hspace*{1em}\rsblank\,V
+&
+\textbf{5.} \rsblank\,A\newline\hspace*{1em}\rsblank\,Ad\newline\hspace*{1em}\rsblank\,K\newline\hspace*{1em}\rsblank\,V
+&
+\\
+\end{tabular}
+\vspace{0.8em}
+```
 
-2.  A
-V
-Ad
-K
+**Step Two:** Add the numbers associated with each letter. There are 5 entries for each letter.
 
-3.  V
-K
-Ad
-A
+```{=latex}
+\begin{center}
+\renewcommand{\arraystretch}{2.2}
+\begin{tabular}{|>{\centering\arraybackslash}p{0.12\textwidth}|>{\centering\arraybackslash}p{0.10\textwidth}|>{\centering\arraybackslash}p{0.10\textwidth}|>{\centering\arraybackslash}p{0.10\textwidth}|>{\centering\arraybackslash}p{0.10\textwidth}|}
+\hline
+\rowcolor[gray]{0.85}
+ & \textbf{V} & \textbf{A} & \textbf{K} & \textbf{Ad} \\
+\hline
+1 & & & & \\
+\hline
+2 & & & & \\
+\hline
+3 & & & & \\
+\hline
+4 & & & & \\
+\hline
+5 & & & & \\
+\hline
+\textbf{Totals:} & & & & \\
+\hline
+\end{tabular}
+\renewcommand{\arraystretch}{1.25}
+\end{center}
+```
 
-4.  A
-Ad
-K
-V
-
-5.  A
-Ad
-K
-V
-
-Step Two: Add the numbers associated with each letter. There are 5 entries for each letter.
-
-<table><tr><th></th><th>V</th><th>A</th><th>K</th><th>Ad</th></tr><tr><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td></tr><tr><td>Totals:</td><td></td><td></td><td></td><td></td></tr></table>
-
-Step Three: The comparison of the total scores in each column will give the relative preference for each of the 4 major Representational Systems.
+**Step Three:** The comparison of the total scores in each column will give the relative preference for each of the 4 major Representational Systems.
 
 {{< pagebreak >}}
 \rightline{\small 19}
 
 # PREDICATES
 
-<table><tr><th>VISUAL</th><th>AUDITORY</th><th>KINESTHETIC</th><th>UNSPECIFIED</th></tr><tr><td>Memorize by seeing pictures and are less distracted by noise. Often have trouble remembering and are bored by long verbal instructions because their mind may wander. They are interested by how the program looks.</td><td>Typically are easily distracted by noise. They can repeat things back to you easily &amp; learn by listening. They like music and like to talk on the phone. Tone of voice and the words used can be important.</td><td>Often they talk slowly and breathy. They respond to physical rewards &amp; touching. They memorize by doing or walking through something. They will be interested in a program that feels right or gives them a gut feeling.</td><td>They spend a fair amount of time talking to themselves. They memorize by steps, procedures, sequences. They will want to know the program makes sense. They can also sometimes exhibit characteristics of other rep systems.</td></tr><tr><td>see</td><td>hear</td><td>feel</td><td>sense</td></tr><tr><td>look</td><td>listen</td><td>touch</td><td>experience</td></tr><tr><td>view</td><td>sound(s)</td><td>grasp</td><td>understand</td></tr><tr><td>appear</td><td>make music</td><td>get hold of</td><td>think</td></tr><tr><td>show</td><td>harmonize</td><td>slip through</td><td>learn</td></tr><tr><td>dawn</td><td>tune in/out</td><td>catch on</td><td>process</td></tr><tr><td>reveal</td><td>be all ears</td><td>tap into</td><td>decide</td></tr><tr><td>envision</td><td>rings a bell</td><td>make contact</td><td>motivate</td></tr><tr><td>illuminate</td><td>silence</td><td>throw out</td><td>consider</td></tr><tr><td>imagine</td><td>be heard</td><td>turn around</td><td>change</td></tr><tr><td>clear</td><td>resonate</td><td>hard</td><td>perceive</td></tr><tr><td>foggy</td><td>deaf</td><td>unfeeling</td><td>insensitive</td></tr><tr><td>focused</td><td>mellifluous</td><td>concrete</td><td>distinct</td></tr><tr><td>hazy</td><td>dissonance</td><td>scrape</td><td>conceive</td></tr><tr><td>crystal</td><td>question</td><td>get a handle</td><td>know</td></tr><tr><td>picture</td><td>unhearing</td><td>solid</td><td></td></tr></table>
+| VISUAL | AUDITORY | KINESTHETIC | UNSPECIFIED |
+|----|----|----|----|
+| Memorize by seeing pictures and are less distracted by noise. Often have trouble remembering and are bored by long verbal instructions because their mind may wander. They are interested by how the program looks. | Typically are easily distracted by noise. They can repeat things back to you easily & learn by listening. They like music and like to talk on the phone. Tone of voice and the words used can be important. | Often they talk slowly and breathy. They respond to physical rewards & touching. They memorize by doing or walking through something. They will be interested in a program that feels right or gives them a gut feeling. | They spend a fair amount of time talking to themselves. They memorize by steps, procedures, sequences. They will want to know the program makes sense. They can also sometimes exhibit characteristics of other rep systems. |
+| see | hear | feel | sense |
+| look | listen | touch | experience |
+| view | sound(s) | grasp | understand |
+| appear | make music | get hold of | think |
+| show | harmonize | slip through | learn |
+| dawn | tune in/out | catch on | process |
+| reveal | be all ears | tap into | decide |
+| envision | rings a bell | make contact | motivate |
+| illuminate | silence | throw out | consider |
+| imagine | be heard | turn around | change |
+| clear | resonate | hard | perceive |
+| foggy | deaf | unfeeling | insensitive |
+| focused | mellifluous | concrete | distinct |
+| hazy | dissonance | scrape | conceive |
+| crystal | question | get a handle | know |
+| picture | unhearing | solid |  |
 
-<table><tr><th colspan="2">Speech Patterns</th></tr><tr><td>1) Quickly Grouped Words</td><td>1) Deliberate Phrasing</td></tr><tr><td>2) Lots of interruptions with "um", or "ah"</td><td>2) Long Complicated Sentences</td></tr></table>
+| Speech Patterns |  |
+|----|----|
+| 1\) Quickly Grouped Words | 1\) Deliberate Phrasing |
+| 2\) Lots of interruptions with \"um\", or \"ah\" | 2\) Long Complicated Sentences |
 
-<table><tr><th colspan="2">Processing Patterns</th></tr><tr><td>1) Quickly with a minimum of detail</td><td>1) Extensive Detail</td></tr><tr><td>2) Will let you know unconsciously when they understand by changing the subject</td><td>2) Will not give indication of understanding unless you ask</td></tr></table>
+| Processing Patterns |  |
+|----|----|
+| 1\) Quickly with a minimum of detail | 1\) Extensive Detail |
+| 2\) Will let you know unconsciously when they understand by changing the subject | 2\) Will not give indication of understanding unless you ask |
 
-<table><tr><th colspan="2">Decision Thrust</th></tr><tr><td>1) Abstract to Global</td><td>1) Fundamentals to Specific</td></tr><tr><td>2) Speculator, gambler</td><td>2) Investor, speculator</td></tr></table>
+| Decision Thrust         |                              |
+|-------------------------|------------------------------|
+| 1\) Abstract to Global  | 1\) Fundamentals to Specific |
+| 2\) Speculator, gambler | 2\) Investor, speculator     |
 
-<table><tr><th colspan="2">Close On</th></tr><tr><td colspan="2">"Be ready to take advantage of an opportunity..." "Let's study the markets &amp; plan some strategies"</td></tr></table>
+| Close On |  |
+|----|----|
+| \"Be ready to take advantage of an opportunity\...\" \"Let\'s study the markets & plan some strategies\" |  |
 
-<table><tr><th colspan="2">Tone of Voice for Close</th></tr><tr><td>Slightly fast and excited</td><td>Thoughtful, considerate &amp; just above monotone</td></tr></table>
+| Tone of Voice for Close   |                                               |
+|---------------------------|-----------------------------------------------|
+| Slightly fast and excited | Thoughtful, considerate & just above monotone |
 
 {{< pagebreak >}}
 \rightline{\small 20}
 
 # LIST OF PREDICATE PHRASES
 
-<table><tr><th>VISUAL</th><th>AUDITORY</th><th>KINESTHETIC</th></tr><tr><td>An eyeful</td><td>Afterthought</td><td>All washed up</td></tr><tr><td>Appears to me</td><td>Blabbermouth</td><td>Boils down to</td></tr><tr><td>Beyond a shadow of a doubt</td><td>Clear as a bell</td><td>Chip off the old block</td></tr><tr><td>Bird's eye view</td><td>Clearly expressed</td><td>Come to grips with</td></tr><tr><td>Catch a glimpse of</td><td>Call on</td><td>Control yourself</td></tr><tr><td>Clear cut</td><td>Describe in detail</td><td>Cool/calm/collected</td></tr><tr><td>Dim view</td><td>Earful</td><td>Firm foundations</td></tr><tr><td>Flashed on</td><td>Give an account of</td><td>Get a handle on</td></tr><tr><td>Get a perspective on</td><td>Give me your ear</td><td>Get a load of this</td></tr><tr><td>Get a scope on</td><td>Grant an audience</td><td>Get in touch with</td></tr><tr><td>Hazy Idea</td><td>Heard voices</td><td>Get the drift of</td></tr><tr><td>Horse of a different color</td><td>Hidden message</td><td>Get your goat</td></tr><tr><td>In light of</td><td>Hold your tongue</td><td>Hand in hand</td></tr><tr><td>In person</td><td>Idle talk</td><td>Hang in there</td></tr><tr><td>In view of</td><td>Inquire into</td><td>Heated argument</td></tr><tr><td>Looks like</td><td>Keynote speaker</td><td>Hold it!</td></tr><tr><td>Make a scene</td><td>Loud and clear</td><td>Hold on!</td></tr><tr><td>Mental image</td><td>Manner of speaking</td><td>Hothead</td></tr><tr><td>Mental picture</td><td>Pay attention to</td><td>Keep your shirt on</td></tr><tr><td>Mind's eye</td><td>Power of speech</td><td>Know-how</td></tr><tr><td>Naked eye</td><td>Purrs like a kitten</td><td>Lay cards on table</td></tr><tr><td>Paint a picture</td><td>State your purpose</td><td>Pain-in the neck</td></tr><tr><td>See to it</td><td>Tattle-tale</td><td>Pull some strings</td></tr><tr><td>Short sighted</td><td>To tell the truth</td><td>Sharp as a tack</td></tr><tr><td>Showing off</td><td>Tongue-tied</td><td>Slipped my mind</td></tr><tr><td>Sight for sore eyes</td><td>Tuned in/tuned out</td><td>Smooth operator</td></tr><tr><td>Staring off into space</td><td>Unheard of</td><td>So-so</td></tr><tr><td>Take a peek</td><td>Utterly</td><td>Start from scratch</td></tr><tr><td>Tunnel vision</td><td>Voiced an opinion</td><td>Stiff upper lip</td></tr><tr><td>Under your nose</td><td>Well informed</td><td>Stuffed shirt</td></tr><tr><td>Up front</td><td>Within hearing</td><td>Too much of a hassle</td></tr><tr><td>Well defined</td><td>Word for word</td><td>Topsy-turvy</td></tr></table>
+| VISUAL                     | AUDITORY            | KINESTHETIC            |
+|----------------------------|---------------------|------------------------|
+| An eyeful                  | Afterthought        | All washed up          |
+| Appears to me              | Blabbermouth        | Boils down to          |
+| Beyond a shadow of a doubt | Clear as a bell     | Chip off the old block |
+| Bird\'s eye view           | Clearly expressed   | Come to grips with     |
+| Catch a glimpse of         | Call on             | Control yourself       |
+| Clear cut                  | Describe in detail  | Cool/calm/collected    |
+| Dim view                   | Earful              | Firm foundations       |
+| Flashed on                 | Give an account of  | Get a handle on        |
+| Get a perspective on       | Give me your ear    | Get a load of this     |
+| Get a scope on             | Grant an audience   | Get in touch with      |
+| Hazy Idea                  | Heard voices        | Get the drift of       |
+| Horse of a different color | Hidden message      | Get your goat          |
+| In light of                | Hold your tongue    | Hand in hand           |
+| In person                  | Idle talk           | Hang in there          |
+| In view of                 | Inquire into        | Heated argument        |
+| Looks like                 | Keynote speaker     | Hold it!               |
+| Make a scene               | Loud and clear      | Hold on!               |
+| Mental image               | Manner of speaking  | Hothead                |
+| Mental picture             | Pay attention to    | Keep your shirt on     |
+| Mind\'s eye                | Power of speech     | Know-how               |
+| Naked eye                  | Purrs like a kitten | Lay cards on table     |
+| Paint a picture            | State your purpose  | Pain-in the neck       |
+| See to it                  | Tattle-tale         | Pull some strings      |
+| Short sighted              | To tell the truth   | Sharp as a tack        |
+| Showing off                | Tongue-tied         | Slipped my mind        |
+| Sight for sore eyes        | Tuned in/tuned out  | Smooth operator        |
+| Staring off into space     | Unheard of          | So-so                  |
+| Take a peek                | Utterly             | Start from scratch     |
+| Tunnel vision              | Voiced an opinion   | Stiff upper lip        |
+| Under your nose            | Well informed       | Stuffed shirt          |
+| Up front                   | Within hearing      | Too much of a hassle   |
+| Well defined               | Word for word       | Topsy-turvy            |
 
 If I could SHOW you an ATTRACTIVE way in which you could (potential benefit or their values), you would at least want to LOOK at it, wouldn't you?
 
@@ -581,11 +584,14 @@ This person will spend a fair amount of time talking to themselves. They will wa
 
 The arrows indicate the tone of voice used in the sentence.
 
-W⇒W⇒W. = Question
-
-W⇒W⇒W. = Statement
-
-W⇒W⇒W. = Command
+```{=latex}
+\begin{center}
+{\LARGE W$\,\Rightarrow\,$W$\,\nearrow\,$W.\quad =\quad Question}\\[1.2em]
+{\LARGE W$\,\Rightarrow\,$W$\,\Rightarrow\,$W.\quad =\quad Statement}\\[1.2em]
+{\LARGE W$\,\Rightarrow\,$W$\,\searrow\,$W.\quad =\quad Command}
+\end{center}
+\vspace{0.8em}
+```
 
 You can also form a sentence in a syntactic pattern in the form of Question, Statement and Command, while using any of the above tonalities.
 
@@ -736,7 +742,60 @@ TEST: Now, what do you believe? Why do you believe you have this new belief?
 
 # SUBMODALITIES CHECKLIST
 
-<table><tr><th>Visual</th><th>1</th><th>2</th><th>3</th><th>4</th></tr><tr><td>Black &amp; White or Color?</td><td></td><td></td><td></td><td></td></tr><tr><td>Near or Far?</td><td></td><td></td><td></td><td></td></tr><tr><td>Bright or Dim?</td><td></td><td></td><td></td><td></td></tr><tr><td>♦ Location?</td><td></td><td></td><td></td><td></td></tr><tr><td>Size of Picture?</td><td></td><td></td><td></td><td></td></tr><tr><td>♦ Associated / Dissociated?</td><td></td><td></td><td></td><td></td></tr><tr><td>Focused or Defocused?</td><td></td><td></td><td></td><td></td></tr><tr><td>Focus<br/>(Changing/Steady)</td><td></td><td></td><td></td><td></td></tr><tr><td>Framed or Panoramic?</td><td></td><td></td><td></td><td></td></tr><tr><td>Movie or Still?</td><td></td><td></td><td></td><td></td></tr><tr><td>Movie-Fast/Normal/Slow</td><td></td><td></td><td></td><td></td></tr><tr><td>Amount of Contrast</td><td></td><td></td><td></td><td></td></tr><tr><td>3D or Flat?</td><td></td><td></td><td></td><td></td></tr><tr><td>Angle Viewed From<br/># of Pictures (Shift?)</td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Auditory</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>Location</td><td></td><td></td><td></td><td></td></tr><tr><td>Direction</td><td></td><td></td><td></td><td></td></tr><tr><td>Internal or External?</td><td></td><td></td><td></td><td></td></tr><tr><td>Loud or Soft?</td><td></td><td></td><td></td><td></td></tr><tr><td>Fast or Slow?</td><td></td><td></td><td></td><td></td></tr><tr><td>High or Low? (Pitch)</td><td></td><td></td><td></td><td></td></tr><tr><td>Tonality</td><td></td><td></td><td></td><td></td></tr><tr><td>Timbre</td><td></td><td></td><td></td><td></td></tr><tr><td>Pauses</td><td></td><td></td><td></td><td></td></tr><tr><td>Cadence</td><td></td><td></td><td></td><td></td></tr><tr><td>Duration</td><td></td><td></td><td></td><td></td></tr><tr><td>Uniqueness of Sound</td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Kinesthetic</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>Location</td><td></td><td></td><td></td><td></td></tr><tr><td>Size</td><td></td><td></td><td></td><td></td></tr><tr><td>Shape</td><td></td><td></td><td></td><td></td></tr><tr><td>Intensity</td><td></td><td></td><td></td><td></td></tr><tr><td>Steady</td><td></td><td></td><td></td><td></td></tr><tr><td>Movement/ Duration</td><td></td><td></td><td></td><td></td></tr><tr><td>Vibration</td><td></td><td></td><td></td><td></td></tr><tr><td>Pressure/Heat?</td><td></td><td></td><td></td><td></td></tr><tr><td>Weight</td><td></td><td></td><td></td><td></td></tr></table>
+```{=latex}
+\begingroup
+\small
+\renewcommand{\arraystretch}{1.25}
+\setlength{\tabcolsep}{4pt}
+\begin{center}
+\begin{tabular}{|p{0.50\textwidth}|>{\centering\arraybackslash}p{0.07\textwidth}|>{\centering\arraybackslash}p{0.07\textwidth}|>{\centering\arraybackslash}p{0.07\textwidth}|>{\centering\arraybackslash}p{0.07\textwidth}|}
+\hline
+\rowcolor[gray]{0.85}
+\textbf{Visual} & \textbf{1} & \textbf{2} & \textbf{3} & \textbf{4} \\
+\hline
+Black \& White or Color? & & & & \\ \hline
+Near or Far? & & & & \\ \hline
+Bright or Dim? & & & & \\ \hline
+$\blacklozenge$\, Location? & & & & \\ \hline
+Size of Picture? & & & & \\ \hline
+$\blacklozenge$\, Associated / Dissociated? & & & & \\ \hline
+Focused or Defocused? & & & & \\ \hline
+Focus (Changing/Steady) & & & & \\ \hline
+Framed or Panoramic? & & & & \\ \hline
+Movie or Still? & & & & \\ \hline
+Movie-Fast/Normal/Slow & & & & \\ \hline
+Amount of Contrast & & & & \\ \hline
+3D or Flat? & & & & \\ \hline
+Angle Viewed From / \# of Pictures (Shift?) & & & & \\ \hline
+\rowcolor[gray]{0.85}
+\textbf{Auditory} & & & & \\ \hline
+Location & & & & \\ \hline
+Direction & & & & \\ \hline
+Internal or External? & & & & \\ \hline
+Loud or Soft? & & & & \\ \hline
+Fast or Slow? & & & & \\ \hline
+High or Low? (Pitch) & & & & \\ \hline
+Tonality & & & & \\ \hline
+Timbre & & & & \\ \hline
+Pauses & & & & \\ \hline
+Cadence & & & & \\ \hline
+Duration & & & & \\ \hline
+Uniqueness of Sound & & & & \\ \hline
+\rowcolor[gray]{0.85}
+\textbf{Kinesthetic} & & & & \\ \hline
+Location & & & & \\ \hline
+Size & & & & \\ \hline
+Shape & & & & \\ \hline
+Intensity & & & & \\ \hline
+Steady & & & & \\ \hline
+Movement/Duration & & & & \\ \hline
+Vibration & & & & \\ \hline
+Pressure/Heat? & & & & \\ \hline
+Weight & & & & \\ \hline
+\end{tabular}
+\end{center}
+\endgroup
+```
 
 {{< pagebreak >}}
 \rightline{\small 30}
@@ -809,25 +868,32 @@ The desired outcome of the Language Section is for all participants to be able t
 
 ## Process:
 
-1. Using Specificity or Ambiguity in Language
-2. Hypnotic Language Patterns
-A. Utilization
-B. Unspecified language
-3. The Agreement Frame
-A. I appreciate, and...
-B. I respect, and...
-C. I agree, and...
-D. Avoid using “but” or “understand”
-4. The Purpose Frame
-“For what purpose...?”
-5. The What If Frame
-“What would happen if...?”
-6. Using Words that Create Positive I/R’s – Say it the way you want it:
-At least 5 positive I/R’s of being involved.
-7. Conditional Close:
-“So if we did this, would you do this?”
-8. Tag Questions:
-“This is something you are interested in, isn’t it?”
+1. **Using Specificity or Ambiguity in Language**
+
+2. **Hypnotic Language Patterns**
+   A. Utilization
+   B. Unspecified language
+
+3. **The Agreement Frame**
+   A. I appreciate, and...
+   B. I respect, and...
+   C. I agree, and...
+   D. Avoid using "but" or "understand"
+
+4. **The Purpose Frame**\
+   "For what purpose...?"
+
+5. **The What If Frame**\
+   "What would happen if...?"
+
+6. **Using Words that Create Positive I/R's** -- Say it the way you want it:\
+   At least 5 positive I/R's of being involved.
+
+7. **Conditional Close:**\
+   "So if we did this, would you do this?"
+
+8. **Tag Questions:**\
+   "This is something you are interested in, isn't it?"
 
 {{< pagebreak >}}
 \rightline{\small 35}
@@ -934,6 +1000,7 @@ In Mediation, chunk up to get agreement. Chunk-up until you get a Nominalization
 -- any Meta Model Question
 
 {{< pagebreak >}}
+
 ### In Trance
 Intuitor
 
@@ -1125,7 +1192,109 @@ The basic steps to generate a metaphor are as follows:
 
 # THE META MODEL
 
-<table><tr><th>PATTERN</th><th>RESPONSE</th><th>PREDICTION</th></tr><tr><td colspan="3"><strong>DISTORTIONS</strong></td></tr><tr><td>1) Mind Reading: Claiming to know someone's internal state. Ex: "You don't like me."</td><td>"How do you know I don't like you?"</td><td>Recovers Source of the Info.</td></tr><tr><td>2) Lost Performative: Value judgments where the person doing the judging is left out. Ex. "It's bad to be inconsistent."</td><td>"Who says it's bad?" "According to whom?" "How do you know it's bad."</td><td>Gathers evidence. Recovers source of the belief, the Performative, strategy for the belief.</td></tr><tr><td>3) Cause—Effect: Where cause is wrongly put outside the self. Ex: "You make me sad."</td><td>"How does what I'm doing cause you to choose to feel sad?" (Also, Counter Ex., or "How Specifically?")</td><td>Recovers the choice.</td></tr><tr><td>4) Complex Equivalence: Where two experiences are interpreted as being synonymous. Ex: "She's always yelling at me, she doesn't like me."</td><td>"How does her yelling mean that she..?" "Have you ever yelled at someone you liked?"</td><td>Recovers Complex Equivalence. Counter Example.</td></tr><tr><td>5) Presuppositions: Ex: "If my husband knew how much I suffered, he wouldn't do that."<br/>There are 3 Presuppositions in this sentence: (1) I suffer, (2) My husband acts in some way, and (3) My husband doesn't know I suffer.</td><td>(1) "How do you choose to suffer?" (2) "How is he (re)acting? (3) "How do you know he doesn't know?"</td><td>Specify the choice &amp; the verb, &amp; what he does.<br/>Recover the Internal Rep., and the Complex Equivalence</td></tr><tr><td colspan="3"><strong>GENERALIZATIONS</strong></td></tr><tr><td>6) Universal Quantifiers: Universal Generalizations such as all, every, never, everyone, no one, etc. Ex: "She never listens to me."</td><td>Find Counter Examples.<br/>"Never?" "What would happen if she did?"</td><td>Recovers Counter Examples, Effects, Outcomes.</td></tr><tr><td>7) Modal Operators: a. Modal Operators of Necessity: As in should, shouldn't, must, must not, have to, need to it is necessary. Ex: "I have to take care of her."<br/>b. Modal Operators of Possibility: (Or Impossibility.) As in can/can't, will/won't, may/may not, possible/impossible. Ex: "I can't tell him the truth."</td><td>a. "What would happen if you did?" ("What would happen if you didn't?" Also, "Or?"<br/>b. "What prevents you?" ("What would happen if you did?")</td><td>Recovers Effects, Outcome.<br/>Recovers Causes</td></tr><tr><td colspan="3"><strong>DELETIONS</strong></td></tr><tr><td>8) Nominalizations: Process words which have been frozen in time, making them nouns. Ex: "There is no communication here."</td><td>"Who's not communicating what to whom?" "How would you like to communicate?"</td><td>Turns it back into a process, recovers deletion, and Ref. Index.</td></tr><tr><td>9) Unspecified Verbs: Ex: "He rejected me."</td><td>"How, specifically?"</td><td>Specifies the verb.</td></tr><tr><td>10) Simple Deletions: a. Simple Deletions: Ex: "I am uncomfortable."<br/>b. Lack of Referential Index: Fails to specify a person or thing. Ex: "They don't listen to me."<br/>c. Comparative Deletions: As in good, better, best, worst, more, less, most, least. Ex: "She's a better person."</td><td>a. "About what/whom?"<br/>b. "Who, specifically, doesn't listen to you?"<br/>c. "Better than whom?" "Better at what?" "Compared to whom, what?</td><td>Recovers Deletion.<br/>Recovers Ref. Index.<br/>Recovers Comparative Deletion.</td></tr></table>
+-----------------------------------------------------------------------
+  PATTERN                 RESPONSE                PREDICTION
+  ----------------------- ----------------------- -----------------------
+  **DISTORTIONS**                                 
+
+  1\) Mind Reading:       \"How do you know I     Recovers Source of the
+  Claiming to know        don\'t like you?\"      Info.
+  someone\'s internal                             
+  state. Ex: \"You don\'t                         
+  like me.\"                                      
+
+  2\) Lost Performative:  \"Who says it\'s bad?\" Gathers evidence.
+  Value judgments where   \"According to whom?\"  Recovers source of the
+  the person doing the    \"How do you know it\'s belief, the
+  judging is left out.    bad.\"                  Performative, strategy
+  Ex. \"It\'s bad to be                           for the belief.
+  inconsistent.\"                                 
+
+  3\) Cause---Effect:     \"How does what I\'m    Recovers the choice.
+  Where cause is wrongly  doing cause you to      
+  put outside the self.   choose to feel sad?\"   
+  Ex: \"You make me       (Also, Counter Ex., or  
+  sad.\"                  \"How Specifically?\")  
+
+  4\) Complex             \"How does her yelling  Recovers Complex
+  Equivalence: Where two  mean that she..?\"      Equivalence. Counter
+  experiences are         \"Have you ever yelled  Example.
+  interpreted as being    at someone you liked?\" 
+  synonymous. Ex:                                 
+  \"She\'s always yelling                         
+  at me, she doesn\'t                             
+  like me.\"                                      
+
+  5\) Presuppositions:    \(1\) \"How do you      Specify the choice &
+  Ex: \"If my husband     choose to suffer?\" (2) the verb, & what he
+  knew how much I         \"How is he (re)acting? does.\
+  suffered, he wouldn\'t  (3) \"How do you know   Recover the Internal
+  do that.\"\             he doesn\'t know?\"     Rep., and the Complex
+  There are 3                                     Equivalence
+  Presuppositions in this                         
+  sentence: (1) I suffer,                         
+  (2) My husband acts in                          
+  some way, and (3) My                            
+  husband doesn\'t know I                         
+  suffer.                                         
+
+  **GENERALIZATIONS**                             
+
+  6\) Universal           Find Counter Examples.\ Recovers Counter
+  Quantifiers: Universal  \"Never?\" \"What would Examples, Effects,
+  Generalizations such as happen if she did?\"    Outcomes.
+  all, every, never,                              
+  everyone, no one, etc.                          
+  Ex: \"She never listens                         
+  to me.\"                                        
+
+  7\) Modal Operators: a. a\. \"What would happen Recovers Effects,
+  Modal Operators of      if you did?\" (\"What   Outcome.\
+  Necessity: As in        would happen if you     Recovers Causes
+  should, shouldn\'t,     didn\'t?\" Also,        
+  must, must not, have    \"Or?\"\                
+  to, need to it is       b. \"What prevents      
+  necessary. Ex: \"I have you?\" (\"What would    
+  to take care of her.\"\ happen if you did?\")   
+  b. Modal Operators of                           
+  Possibility: (Or                                
+  Impossibility.) As in                           
+  can/can\'t,                                     
+  will/won\'t, may/may                            
+  not,                                            
+  possible/impossible.                            
+  Ex: \"I can\'t tell him                         
+  the truth.\"                                    
+
+  **DELETIONS**                                   
+
+  8\) Nominalizations:    \"Who\'s not            Turns it back into a
+  Process words which     communicating what to   process, recovers
+  have been frozen in     whom?\" \"How would you deletion, and Ref.
+  time, making them       like to communicate?\"  Index.
+  nouns. Ex: \"There is                           
+  no communication                                
+  here.\"                                         
+
+  9\) Unspecified Verbs:  \"How, specifically?\"  Specifies the verb.
+  Ex: \"He rejected me.\"                         
+
+  10\) Simple Deletions:  a\. \"About             Recovers Deletion.\
+  a. Simple Deletions:    what/whom?\"\           Recovers Ref. Index.\
+  Ex: \"I am              b. \"Who, specifically, Recovers Comparative
+  uncomfortable.\"\       doesn\'t listen to      Deletion.
+  b. Lack of Referential  you?\"\                 
+  Index: Fails to specify c. \"Better than        
+  a person or thing. Ex:  whom?\" \"Better at     
+  \"They don\'t listen to what?\" \"Compared to   
+  me.\"\                  whom, what?             
+  c. Comparative                                  
+  Deletions: As in good,                          
+  better, best, worst,                            
+  more, less, most,                               
+  least. Ex: \"She\'s a                           
+  better person.\"                                
+  -----------------------------------------------------------------------
 
 {{< pagebreak >}}
 \rightline{\small 46}
@@ -1328,7 +1497,16 @@ A specific syntax of external and internal experience which consistently produce
 
 **Everything We Do:** Strategies involve everything we do. All our daily activity is generated &amp; maintained by strategies. Whether or not we finish what we do is governed by a strategy. We have strategies for...
 
-<table><tr><td>Love</td><td>Decision</td><td>Relaxation</td></tr><tr><td>Hate</td><td>Motivation</td><td>Tension</td></tr><tr><td>Learning</td><td>Happiness</td><td>Fun</td></tr><tr><td>Forgetting</td><td>Sex</td><td>Boredom</td></tr><tr><td>Parenting</td><td>Eating</td><td>Marketing</td></tr><tr><td>Sports</td><td>Health</td><td>Wealth</td></tr><tr><td>Communication</td><td>Disease</td><td>Depression</td></tr><tr><td>Sales</td><td>Creativity</td><td>Poverty</td></tr></table>
+|               |            |            |
+|---------------|------------|------------|
+| Love          | Decision   | Relaxation |
+| Hate          | Motivation | Tension    |
+| Learning      | Happiness  | Fun        |
+| Forgetting    | Sex        | Boredom    |
+| Parenting     | Eating     | Marketing  |
+| Sports        | Health     | Wealth     |
+| Communication | Disease    | Depression |
+| Sales         | Creativity | Poverty    |
 
 ... and, actually, everything else we do.
 
@@ -2920,12 +3098,63 @@ On the next two pages are lists of predicates, and predicate phrases. Look at th
 {{< pagebreak >}}
 \rightline{\small 106}
 
-<table><tr><th>VISUAL</th><th>AUDITORY</th><th>KINESTHETIC</th><th>UNSPECIFIED</th></tr><tr><td>see</td><td>hear</td><td>feel</td><td>sense</td></tr><tr><td>look</td><td>listen</td><td>touch</td><td>experience</td></tr><tr><td>view</td><td>sound(s)</td><td>grasp</td><td>understand</td></tr><tr><td>appear</td><td>make music</td><td>get hold of</td><td>think</td></tr><tr><td>show</td><td>harmonize</td><td>slip through</td><td>learn</td></tr><tr><td>dawn</td><td>tune in/out</td><td>catch on</td><td>process</td></tr><tr><td>reveal</td><td>be all ears</td><td>tap into</td><td>decide</td></tr><tr><td>envision</td><td>rings a bell</td><td>make contact</td><td>motivate</td></tr><tr><td>illuminate</td><td>silence</td><td>throw out</td><td>consider</td></tr><tr><td>imagine</td><td>be heard</td><td>turn around</td><td>change</td></tr><tr><td>clear</td><td>resonate</td><td>hard</td><td>perceive</td></tr><tr><td>foggy</td><td>deaf</td><td>unfeeling</td><td>insensitive</td></tr><tr><td>focused</td><td>mellifluous</td><td>concrete</td><td>distinct</td></tr><tr><td>hazy</td><td>dissonance</td><td>scrape</td><td>conceive</td></tr><tr><td>crystal</td><td>question</td><td>get a handle</td><td>know</td></tr><tr><td>picture</td><td>unhearing</td><td>solid</td><td></td></tr></table>
+| VISUAL     | AUDITORY     | KINESTHETIC  | UNSPECIFIED |
+|------------|--------------|--------------|-------------|
+| see        | hear         | feel         | sense       |
+| look       | listen       | touch        | experience  |
+| view       | sound(s)     | grasp        | understand  |
+| appear     | make music   | get hold of  | think       |
+| show       | harmonize    | slip through | learn       |
+| dawn       | tune in/out  | catch on     | process     |
+| reveal     | be all ears  | tap into     | decide      |
+| envision   | rings a bell | make contact | motivate    |
+| illuminate | silence      | throw out    | consider    |
+| imagine    | be heard     | turn around  | change      |
+| clear      | resonate     | hard         | perceive    |
+| foggy      | deaf         | unfeeling    | insensitive |
+| focused    | mellifluous  | concrete     | distinct    |
+| hazy       | dissonance   | scrape       | conceive    |
+| crystal    | question     | get a handle | know        |
+| picture    | unhearing    | solid        |             |
 
 {{< pagebreak >}}
 \rightline{\small 107}
 
-<table><tr><th>VISUAL</th><th>AUDITORY</th><th>KINESTHETIC</th></tr><tr><td>An eyeful</td><td>Afterthought</td><td>All washed up</td></tr><tr><td>Appears to me</td><td>Blabbermouth</td><td>Boils down to</td></tr><tr><td>Beyond a shadow of a doubt</td><td>Clear as a bell</td><td>Chip off the old block</td></tr><tr><td>Bird's eye view</td><td>Clearly expressed</td><td>Come to grips with</td></tr><tr><td>Catch a glimpse of</td><td>Call on</td><td>Control yourself</td></tr><tr><td>Clear cut</td><td>Describe in detail</td><td>Cool/calm/collected</td></tr><tr><td>Dim view</td><td>Earful</td><td>Firm foundations</td></tr><tr><td>Flashed on</td><td>Give an account of</td><td>Get a handle on</td></tr><tr><td>Get a perspective on</td><td>Give me your ear</td><td>Get a load of this</td></tr><tr><td>Get a scope on</td><td>Grant an audience</td><td>Get in touch with</td></tr><tr><td>Hazy Idea</td><td>Heard voices</td><td>Get the drift of</td></tr><tr><td>Horse of a different color</td><td>Hidden message</td><td>Get your goat</td></tr><tr><td>In light of</td><td>Hold your tongue</td><td>Hand in hand</td></tr><tr><td>In person</td><td>Idle talk</td><td>Hang in there</td></tr><tr><td>In view of</td><td>Inquire into</td><td>Heated argument</td></tr><tr><td>Looks like</td><td>Keynote speaker</td><td>Hold it!</td></tr><tr><td>Make a scene</td><td>Loud and clear</td><td>Hold on!</td></tr><tr><td>Mental image</td><td>Manner of speaking</td><td>Hothead</td></tr><tr><td>Mental picture</td><td>Pay attention to</td><td>Keep your shirt on</td></tr><tr><td>Mind's eye</td><td>Power of speech</td><td>Know-how</td></tr><tr><td>Naked eye</td><td>Purrs like a kitten</td><td>Lay cards on table</td></tr><tr><td>Paint a picture</td><td>State your purpose</td><td>Pain-in the neck</td></tr><tr><td>See to it</td><td>Tattle-tale</td><td>Pull some strings</td></tr><tr><td>Short sighted</td><td>To tell the truth</td><td>Sharp as a tack</td></tr><tr><td>Showing off</td><td>Tongue-tied</td><td>Slipped my mind</td></tr><tr><td>Sight for sore eyes</td><td>Tuned in/tuned out</td><td>Smooth operator</td></tr><tr><td>Staring off into space</td><td>Unheard of</td><td>So-so</td></tr><tr><td>Take a peek</td><td>Utterly</td><td>Start from scratch</td></tr><tr><td>Tunnel vision</td><td>Voiced an opinion</td><td>Stiff upper lip</td></tr><tr><td>Under your nose</td><td>Well informed</td><td>Stuffed shirt</td></tr><tr><td>Up front</td><td>Within hearing</td><td>Too much of a hassle</td></tr><tr><td>Well defined</td><td>Word for word</td><td>Topsy-turvy</td></tr><tr><td></td><td></td><td>Underhanded</td></tr></table>
+| VISUAL                     | AUDITORY            | KINESTHETIC            |
+|----------------------------|---------------------|------------------------|
+| An eyeful                  | Afterthought        | All washed up          |
+| Appears to me              | Blabbermouth        | Boils down to          |
+| Beyond a shadow of a doubt | Clear as a bell     | Chip off the old block |
+| Bird\'s eye view           | Clearly expressed   | Come to grips with     |
+| Catch a glimpse of         | Call on             | Control yourself       |
+| Clear cut                  | Describe in detail  | Cool/calm/collected    |
+| Dim view                   | Earful              | Firm foundations       |
+| Flashed on                 | Give an account of  | Get a handle on        |
+| Get a perspective on       | Give me your ear    | Get a load of this     |
+| Get a scope on             | Grant an audience   | Get in touch with      |
+| Hazy Idea                  | Heard voices        | Get the drift of       |
+| Horse of a different color | Hidden message      | Get your goat          |
+| In light of                | Hold your tongue    | Hand in hand           |
+| In person                  | Idle talk           | Hang in there          |
+| In view of                 | Inquire into        | Heated argument        |
+| Looks like                 | Keynote speaker     | Hold it!               |
+| Make a scene               | Loud and clear      | Hold on!               |
+| Mental image               | Manner of speaking  | Hothead                |
+| Mental picture             | Pay attention to    | Keep your shirt on     |
+| Mind\'s eye                | Power of speech     | Know-how               |
+| Naked eye                  | Purrs like a kitten | Lay cards on table     |
+| Paint a picture            | State your purpose  | Pain-in the neck       |
+| See to it                  | Tattle-tale         | Pull some strings      |
+| Short sighted              | To tell the truth   | Sharp as a tack        |
+| Showing off                | Tongue-tied         | Slipped my mind        |
+| Sight for sore eyes        | Tuned in/tuned out  | Smooth operator        |
+| Staring off into space     | Unheard of          | So-so                  |
+| Take a peek                | Utterly             | Start from scratch     |
+| Tunnel vision              | Voiced an opinion   | Stiff upper lip        |
+| Under your nose            | Well informed       | Stuffed shirt          |
+| Up front                   | Within hearing      | Too much of a hassle   |
+| Well defined               | Word for word       | Topsy-turvy            |
+|                            |                     | Underhanded            |
 
 {{< pagebreak >}}
 \rightline{\small 108}
@@ -3143,7 +3372,13 @@ What are the elements that can go into a strategy? There are only six, fortunate
 
 If you're making note of the syntax of the elements in a person's strategy, we've developed a shorthand notation process for strategies. And they're shown below:
 
-<table><tr><td>V =</td><td>Visual</td><td>e =</td><td>External</td></tr><tr><td>A =</td><td>Auditory</td><td>i =</td><td>Internal</td></tr><tr><td>K =</td><td>Kinesthetic (feelings)</td><td>t =</td><td>Tonal (At)</td></tr><tr><td>O =</td><td>Olfactory</td><td>d =</td><td>Digital</td></tr><tr><td>G =</td><td>Gustatory</td><td></td><td></td></tr></table>
+|     |                        |     |            |
+|-----|------------------------|-----|------------|
+| V = | Visual                 | e = | External   |
+| A = | Auditory               | i = | Internal   |
+| K = | Kinesthetic (feelings) | t = | Tonal (At) |
+| O = | Olfactory              | d = | Digital    |
+| G = | Gustatory              |     |            |
 
 The strategy notation system that we use corresponds directly to the eye patterns chart that you remember (see page 123). As you listen and watch the person you're eliciting the strategy from, note first the major modalities — [V], [At], [K], [O], [G], [Ad]. Also make note of whether they are internal or external. For example, seeing a picture in your head is Visual Internal (or Vi), looking at a car to see if you like it is Visual External (or Ve), and may include a comparison to a remembered or created car (Vr or Vc). Talking to the salesperson, and gathering information about the purchase to find if it meets your criteria is Auditory digital (or Ad), and External. Or feeling a rug to discover if you like the feel is Kinesthetic external (or Ke), while feeling good about the purchase is Kinesthetic internal (or Ki).
 
@@ -3865,7 +4100,24 @@ Modeling is the process by which all of NLP was created. In Modeling we elicit t
 {{< pagebreak >}}
 \rightline{\small 141}
 
-<table><tr><td>Model of the World</td><td>A person's values, beliefs and attitudes that relate to and create his or her own world.</td></tr><tr><td>Neuro Linguistic Programming</td><td>NLP is the study of excellence, which describes how our thinking produces our behavior, and allows us to model the excellence and to reproduce that behavior.</td></tr><tr><td>Nominalization</td><td>A process word which has been turned into a noun, often by adding “tion”. (See Meta Model, Page Error! Bookmark not defined.)</td></tr><tr><td>Olfactory</td><td>The sense of smell.</td></tr><tr><td>Outcome</td><td>Desired result.</td></tr><tr><td>Overlap</td><td>Using a preferred representational system to allow us to gain access to another, E.G.: “Imagine walking (preferred rep system) along the beach and hearing the birds. Now, look down at the sand and feel the cool wet sand beneath your feet.”</td></tr><tr><td>Pacing</td><td>Pacing is matching or mirroring another person’s external behavior so as to gain rapport.</td></tr><tr><td>Parts</td><td>Parts are a portion of the unconscious mind, which often have conflicting beliefs and values. (See page 73.)</td></tr><tr><td>Parts Integration</td><td>An NLP technique, which allows us to integrate parts at the unconscious level by assisting each one to traverse logical levels (by chunking up) and to go beyond the boundaries of each to find a higher level of wholeness. (See page 73.)</td></tr><tr><td>Perceptual Position</td><td>Describes our point of view in a specific situation: First Position is our own point of view. Second Position is usually someone else’s point of view. Third position is the point of view of a dissociated observer.</td></tr><tr><td>Phonological Ambiguity</td><td>This occurs when there are two words, which sound the same but have different meanings. (See Milton Model, page 39.)</td></tr><tr><td>Preferred Rep System</td><td>This is the representational system that someone most often uses to think, and to organize his or her experiences.</td></tr><tr><td>Presuppositions</td><td>Presuppositions literally means assumptions. In natural language the presuppositions are what is assumed by the sentence. They are useful in “hearing between the lines” and also for communicating to someone using assumptions that will have to be accepted by the listener so that the communication makes sense. (See page 35.)</td></tr><tr><td>Presuppositions of NLP</td><td>Assumptions or convenient beliefs, which are not necessarily “true,” but which if accepted and believed will change our thinking and improve our results as an NLP Practitioner. (See page 12.)</td></tr><tr><td>Primary Rep System</td><td>This is how we represent our internal processing, externally. (It is discovered by listening to Predicates and looking at Physiology.)</td></tr><tr><td>Punctuation Ambiguity</td><td>Ambiguity, which is created by changing the punctuation of a sentence by pausing in the wrong place, or by running-on two sentences. (See Milton Model, page 39.)</td></tr></table>
+|  |  |
+|----|----|
+| Model of the World | A person\'s values, beliefs and attitudes that relate to and create his or her own world. |
+| Neuro Linguistic Programming | NLP is the study of excellence, which describes how our thinking produces our behavior, and allows us to model the excellence and to reproduce that behavior. |
+| Nominalization | A process word which has been turned into a noun, often by adding "tion". (See Meta Model, Page Error! Bookmark not defined.) |
+| Olfactory | The sense of smell. |
+| Outcome | Desired result. |
+| Overlap | Using a preferred representational system to allow us to gain access to another, E.G.: "Imagine walking (preferred rep system) along the beach and hearing the birds. Now, look down at the sand and feel the cool wet sand beneath your feet." |
+| Pacing | Pacing is matching or mirroring another person's external behavior so as to gain rapport. |
+| Parts | Parts are a portion of the unconscious mind, which often have conflicting beliefs and values. (See page 73.) |
+| Parts Integration | An NLP technique, which allows us to integrate parts at the unconscious level by assisting each one to traverse logical levels (by chunking up) and to go beyond the boundaries of each to find a higher level of wholeness. (See page 73.) |
+| Perceptual Position | Describes our point of view in a specific situation: First Position is our own point of view. Second Position is usually someone else's point of view. Third position is the point of view of a dissociated observer. |
+| Phonological Ambiguity | This occurs when there are two words, which sound the same but have different meanings. (See Milton Model, page 39.) |
+| Preferred Rep System | This is the representational system that someone most often uses to think, and to organize his or her experiences. |
+| Presuppositions | Presuppositions literally means assumptions. In natural language the presuppositions are what is assumed by the sentence. They are useful in "hearing between the lines" and also for communicating to someone using assumptions that will have to be accepted by the listener so that the communication makes sense. (See page 35.) |
+| Presuppositions of NLP | Assumptions or convenient beliefs, which are not necessarily "true," but which if accepted and believed will change our thinking and improve our results as an NLP Practitioner. (See page 12.) |
+| Primary Rep System | This is how we represent our internal processing, externally. (It is discovered by listening to Predicates and looking at Physiology.) |
+| Punctuation Ambiguity | Ambiguity, which is created by changing the punctuation of a sentence by pausing in the wrong place, or by running-on two sentences. (See Milton Model, page 39.) |
 
 {{< pagebreak >}}
 \rightline{\small 142}
@@ -4082,6 +4334,7 @@ Huna Trainings
 \rightline{\small 18}
 
 {{< pagebreak >}}
+
 # Principles for Success
 
 - Know Your Outcome
@@ -4151,6 +4404,7 @@ Huna Trainings
 ![img-5.jpeg](assets/p0152_page_152_img-5.jpg)
 
 {{< pagebreak >}}
+
 # Rapport
 
 - Posture, Gestures
@@ -4207,6 +4461,7 @@ First: Rapport
 \rightline{\small 36}
 
 {{< pagebreak >}}
+
 # Group Rapport Exercise
 
 ![img-0.jpeg](assets/p0154_page_154_img-0.jpg)
@@ -4321,6 +4576,7 @@ Is the order and sequence of the Internal Representations
 ![img-3.jpeg](assets/p0155_page_155_img-3.jpg)
 
 {{< pagebreak >}}
+
 # Meta Model Questions
 
 - Mind Reads
@@ -4398,6 +4654,7 @@ Who or What specifically?
 \rightline{\small 54}
 
 {{< pagebreak >}}
+
 # Homework
 
 - Tonight
@@ -4436,6 +4693,7 @@ Who or What specifically?
 \rightline{\small 60}
 
 {{< pagebreak >}}
+
 # Collapse Anchors
 
 - Decide + &amp; - states
@@ -5372,6 +5630,7 @@ Practicing beyond your Scope of Practice or making claims which are illegal or u
 ^{}[]
 
 {{< pagebreak >}}
+
 # CONTENTS
 
 Contents ... 2
@@ -5400,13 +5659,67 @@ POST-HYPNOTIC SUGGESTIONS ... 18
 Creating Suggestions that Operate at a later time ... 18
 
 {{< pagebreak >}}
+
 # HISTORY OF HYPNOSIS
 
 NLP
 
-<table><tr><td rowspan="2">A.M Krasner</td><td>Ernest Rossi<br/>Jeffrey Zeig</td></tr><tr><td>1964 Leslie LeCron<br/>1957 Andre Weitzenhoffer<br/>Milton Erickson</td></tr><tr><td>Carl Jung</td><td>1943 G.A. Estabrooks<br/>Andrew Salter<br/>1933 Clark Hull</td></tr><tr><td>Adler</td><td>1903 Bramwell<br/>I.P. Pavlov<br/>1898 Siddis</td></tr><tr><td>Freud</td><td>Behaviorism</td></tr><tr><td>1890</td><td>William James<br/>Freud studies with Charcot Nancy,<br/>but does not do Hypnosis</td></tr><tr><td>1825-1873</td><td>Charcot attempts to revive<br/>Mesmerism, discredited by Bernheim</td></tr><tr><td>1865-1885</td><td>Bernheim, forms The Nancy School<br/>with Liebault</td></tr><tr><td>1864</td><td>A.A. Liebault, MD, Nancy, develops<br/>system of Hypnosis &amp; suggestion.</td></tr><tr><td>1850</td><td>Esdaile -- Mesmerism in India</td></tr><tr><td>1795-1860</td><td>James Braid -- "Neurypnology"</td></tr><tr><td>1838</td><td>Elliotson -- Adopted Mesmerism</td></tr><tr><td>Early 1800's</td><td>Pusseguyr -- coins "Somnambulist"</td></tr><tr><td>1750</td><td>Franz Anton Mesmer -- "Mesmerism"</td></tr><tr><td>1725</td><td>Father Maximilian Hehl -- Magnets</td></tr><tr><td>1600</td><td>Valentine Braithwaite -- Hands on</td></tr><tr><td>1500</td><td>Paracelsus -- Healing with Magnets<br/>Europe -- "The Royal Touch"<br/>Egypt<br/>India</td></tr></table>
+----------------------------------- -----------------------------------
+  A.M Krasner                         Ernest Rossi\
+                                      Jeffrey Zeig
+
+                                      1964 Leslie LeCron\
+                                      1957 Andre Weitzenhoffer\
+                                      Milton Erickson
+
+  Carl Jung                           1943 G.A. Estabrooks\
+                                      Andrew Salter\
+                                      1933 Clark Hull
+
+  Adler                               1903 Bramwell\
+                                      I.P. Pavlov\
+                                      1898 Siddis
+
+  Freud                               Behaviorism
+
+  1890                                William James\
+                                      Freud studies with Charcot Nancy,\
+                                      but does not do Hypnosis
+
+  1825-1873                           Charcot attempts to revive\
+                                      Mesmerism, discredited by Bernheim
+
+  1865-1885                           Bernheim, forms The Nancy School\
+                                      with Liebault
+
+  1864                                A.A. Liebault, MD, Nancy, develops\
+                                      system of Hypnosis & suggestion.
+
+  1850                                Esdaile \-- Mesmerism in India
+
+  1795-1860                           James Braid \-- \"Neurypnology\"
+
+  1838                                Elliotson \-- Adopted Mesmerism
+
+  Early 1800\'s                       Pusseguyr \-- coins
+                                      \"Somnambulist\"
+
+  1750                                Franz Anton Mesmer \--
+                                      \"Mesmerism\"
+
+  1725                                Father Maximilian Hehl \-- Magnets
+
+  1600                                Valentine Braithwaite \-- Hands on
+
+  1500                                Paracelsus \-- Healing with
+                                      Magnets\
+                                      Europe \-- \"The Royal Touch\"\
+                                      Egypt\
+                                      India
+  ----------------------------------- -----------------------------------
 
 {{< pagebreak >}}
+
 # HYPNOTIC PATTERNS
 
 ## THE FUNDAMENTALS OF ERICKSONIAN HYPNOSIS
@@ -5444,6 +5757,7 @@ An expression of behavioral potentials that are experienced as taking place, suc
 Recognize, evaluate and ratify the therapeutic change that takes place.
 
 {{< pagebreak >}}
+
 # HYPNOTIC PATTERNS
 
 ## PATTERNS OF INDIRECT SUGGESTION
@@ -5481,6 +5795,7 @@ They are interspersed in the middle of the conversation so as to bypass the cons
 “Soon you will find a finger or a thumb moving a bit, perhaps by itself. It can move up or down, to the side or press down. It can be slow or quick or perhaps not move at all. The really important thing is to sense fully whatever feelings develop.”
 
 {{< pagebreak >}}
+
 # HYPNOTIC PATTERNS
 
 ## PATTERNS OF INDIRECT SUGGESTION (CONT.)
@@ -5523,6 +5838,7 @@ b. Now, if you uncross your legs and place your hands comfortably on your lap, t
 c. As that comfort deepens, your unconscious mind can relax while your conscious reviews the nature of the problem. And when a relevant and interesting thought reaches your conscious mind, your eyes can open as you carefully consider it.
 
 {{< pagebreak >}}
+
 # HYPNOTIC PATTERNS
 
 ## PATTERNS OF INDIRECT SUGGESTION (CONT.)
@@ -5572,6 +5888,7 @@ Many people come to the Hypnotherapist thinking that there is something about tr
 “So the process we are about to learn is just that, a learning process. Each step of the way there are several tests, and we will see how many tests you succeed at. The more successful you are the deeper you can go.”
 
 {{< pagebreak >}}
+
 # STAGES OF HYPNOSIS
 
 1. • Lethargy
@@ -5631,6 +5948,7 @@ SUGGESTIBILITY TESTS
 "Please close your eyes and look straight up. Turn your face straight up to the ceiling. Now you're falling backward; falling, falling, falling. I will catch you. You are falling, falling, falling."
 
 {{< pagebreak >}}
+
 # ERICKSONIAN INDUCTIONS
 
 ## QUESTIONS FOR INDUCTION I
@@ -5654,6 +5972,7 @@ If #1 is “no” then, “What is the relationship between the state you are in
 Bring them out of trance: “In a moment, I am going to count backwards from 10 to 1, and I want you to awaken 1/10th of the way with each number until you are fully awake. 10 ... 9 ... 8 ... etc.”
 
 {{< pagebreak >}}
+
 # ERICKSONIAN INDUCTIONS
 
 ## QUESTIONS FOR INDUCTION II
@@ -5692,6 +6011,7 @@ If #1 is "no" then, "What is the relationship between the state you are in right
 15. Or would you rather really try in vain and find you cannot?
 
 {{< pagebreak >}}
+
 # ERICKSONIAN INDUCTIONS
 
 ## QUESTIONS FOR INDUCTION II (CONT.)
@@ -5717,6 +6037,7 @@ If #1 is "no" then, "What is the relationship between the state you are in right
 Bring them out of trance: "In a moment, I am going to count backwards from 10 to 1, and I want you to awaken 1/10th of the way with each number until you are fully awake. 10 ... 9 ... 8 ... etc."
 
 {{< pagebreak >}}
+
 # GENERAL PENDULUM PARADIGM
 
 ## FOR USE WITH CLIENTS
@@ -5741,11 +6062,13 @@ Finish: “Sometimes unconscious minds like to finish solving a problem like thi
 If the answer is “no” to 1 or 2: “Can the Unconscious Mind get in touch with the blueprint of perfect health and healing that exists in the deepest part of the Unconscious Mind (in an area that some people call the Higher Self) and transfer it to the blueprint that the Unconscious Mind uses to create the body?”
 
 {{< pagebreak >}}
+
 # PENDULUM CHART
 
 ![img-0.jpeg](assets/p0207_page_207_img-0.jpg)
 
 {{< pagebreak >}}
+
 # DEEPENING TECHNIQUES
 
 ## DIRECT &amp; INDIRECT
@@ -5765,6 +6088,7 @@ Repeating the induction of trance, often called “fractionation,” deepens the
 Using embedded metaphor will deepen the client’s trance. In fact, the more levels of embedded metaphor used, the deeper the trance which follows. (There seems to be a point of diminishing returns which happens after 12 or so embedded metaphors.)
 
 {{< pagebreak >}}
+
 # CONTRAINDICATIONS FOR HYPNOSIS
 
 WHEN NOT TO HYPNOTIZE, OR BE CAREFUL
@@ -5790,6 +6114,7 @@ If a client is dealing with certain disorders which are Psychiatric in nature, s
 Members of the opposite sex should only be Hypnotized when there is a reliable witness present.
 
 {{< pagebreak >}}
+
 # POST-HYPNOTIC SUGGESTIONS
 
 CREATING SUGGESTIONS THAT OPERATE AT A LATER TIME
@@ -5819,6 +6144,7 @@ Make sure that you lead up to the suggestions and lead out of the suggestions in
 NOTE: Any Post-Hypnotic Suggestions created for experimental purposes must be removed at the end of the session. E.G.: “...Come fully awake. Good. Any and all Hypnotic Suggestions relating to producing Hypnotic Phenomena are hereby removed.”
 
 {{< pagebreak >}}
+
 # WHY COACHING
 
 - Ultimately every company’s success depends on the performance of its people. There is no substitute for human performance.
@@ -5833,6 +6159,7 @@ NOTE: Any Post-Hypnotic Suggestions created for experimental purposes must be re
 - People are paid first for what they do. But as you move up the scale of corporate pay and responsibility, you do less. In business often, the more you do, the less you make. The highest paid people in business are paid for creating and holding in their mind the concept of the organization.
 
 {{< pagebreak >}}
+
 # THREE MAJOR OUTCOMES FOR COACHING
 
 - Underperformance
@@ -5840,6 +6167,7 @@ NOTE: Any Post-Hypnotic Suggestions created for experimental purposes must be re
 - Future performance
 
 {{< pagebreak >}}
+
 # NLP COACHING WORKS WITH CONSCIOUS MIND AND UNCONSCIOUS MIND FOR INTEGRATION
 
 According to a team led by Professor Gerard Hodgkinson of the Centre for Organizational Strategy, Learning and Change at Leeds University Business School, intuition is the result of the way our brains store, process and retrieve information on a subconscious level and so is a real psychological phenomenon which needs further study to help us harness its potential. (source Science Daily of March. 6, 2008)
@@ -5860,6 +6188,7 @@ one. By understanding this phenomenon, we could then help organizations to harne
 The research is published in the current issue of the British Journal of Psychology. The article comprises a critical review of previously published theory and research within psychology and the wider behavioral sciences.
 
 {{< pagebreak >}}
+
 # COACHING IS
 
 A developmental ongoing interaction between two people, the Coach and the Client which assists the Client to develop his capabilities, achieve his goals and objectives and produce successful results.
@@ -5869,11 +6198,13 @@ The NLP Coach facilitates change through verbal and non-verbal communication (qu
 The NLP Coach creates and facilitates change, elicits, selects, trains, asks meaningful questions, motivates, creates insight, explains, tasks, evokes, challenges, stimulates, supports and encourages clients self-expression.
 
 {{< pagebreak >}}
+
 # YOU USE COACHING FOR
 
 Accepting Change, Adaptability Issues, Anger Management, Career Development, Change of Position, Commitment Issues, Communicating Emotions, Communication Issues, Company/Business or Personal Positioning, Conflicts and Conflict Resolution, Cultural Differences, Decision making, Emotional Intelligence, Feeling Left Out or Left Behind, Gender Communication, Job Selection, Language Precision, Leadership Competencies, Learning Issues, Mediation, Modeling for Excellence, Motivation (Self and Others), Negotiation Skills, Nervousness, Organizational Issues, Performance Enhancement and Other Issues, Personal Organization, Presentation Skills, Process Coaching, Procrastination, Project Planning, Relationship Issues, Role Issues, Self-Esteem Issues, Social Skills, Stage Fright or Negative Emotions, Stress Management, Test Anxiety, Time Management, Work-Life Balance, etc.
 
 {{< pagebreak >}}
+
 # SUCCESSFUL NLP COACHING DEPENDS VERY MUCH ON A FEW FACTORS
 
 1. The NLP Coach has a high degree of patience, has very little (if at all) intolerance and prejudice, and utilizes the Client mistakes for learning.
@@ -5912,10 +6243,25 @@ Accepting Change, Adaptability Issues, Anger Management, Career Development, Cha
 {{< pagebreak >}}
 TRADITIONAL THERAPY vs. NLP COACHING
 
-<table><tr><th>Traditional Therapy</th><th>NLP Coaching</th></tr><tr><td>Is about working with a Patient</td><td>Is about working with a Client</td></tr><tr><td>Asks the question WHY?</td><td>Asks the questions HOW, WHAT and WHAT IF? In NLP generally we do not ask WHY because, as it is usually used, it just gets reasons and not results. It gives us more content and not the structure or the process.</td></tr><tr><td>Takes for granted that emotions are a sign that something is wrong and are therefore to be avoided</td><td>Assumes emotions are natural and looks for the INTENTION and PURPOSE for the expression of those emotions</td></tr><tr><td>Generally works with a person’s past and the traumatic events therein, and seeks healing of those events</td><td>Is interested in a person’s present and works to help them in Creating a compelling Future (in our understanding we realize that in order to create the future you want, you have to get rid of past obstacles)</td></tr><tr><td>Diagnoses mental illnesses and attempts to deal with identifiable conditions in a person</td><td>Assumes that the Client is healthy (IE: not broken) and wants to create a better future</td></tr><tr><td>Defines a Doctor-Patient relationship (where the Doctor has the solution)</td><td>Defines a partnership of equals (the Coach offers techniques and encourages the Client to find out his own solutions).</td></tr><tr><td>Focuses on the Client being broken, and somehow has to be fixed</td><td>Focuses on actions, outcomes, and process, remembering that a person is perfectly capable of best performance and only has to get in touch with those capabilities</td></tr></table>
+| Traditional Therapy | NLP Coaching |
+|----|----|
+| Is about working with a Patient | Is about working with a Client |
+| Asks the question WHY? | Asks the questions HOW, WHAT and WHAT IF? In NLP generally we do not ask WHY because, as it is usually used, it just gets reasons and not results. It gives us more content and not the structure or the process. |
+| Takes for granted that emotions are a sign that something is wrong and are therefore to be avoided | Assumes emotions are natural and looks for the INTENTION and PURPOSE for the expression of those emotions |
+| Generally works with a person's past and the traumatic events therein, and seeks healing of those events | Is interested in a person's present and works to help them in Creating a compelling Future (in our understanding we realize that in order to create the future you want, you have to get rid of past obstacles) |
+| Diagnoses mental illnesses and attempts to deal with identifiable conditions in a person | Assumes that the Client is healthy (IE: not broken) and wants to create a better future |
+| Defines a Doctor-Patient relationship (where the Doctor has the solution) | Defines a partnership of equals (the Coach offers techniques and encourages the Client to find out his own solutions). |
+| Focuses on the Client being broken, and somehow has to be fixed | Focuses on actions, outcomes, and process, remembering that a person is perfectly capable of best performance and only has to get in touch with those capabilities |
 
 {{< pagebreak >}}
-<table><tr><th>Traditional Therapy</th><th>NLP Coaching</th></tr><tr><td>Generally through conversation, encourages the patient to talk about and thereby resolve old pain. The focus is on reliving pain and symptoms to get rid of them</td><td>Helps Client to discover the process by which s/he prevents the achievement of goals and objectives and learn new ways of thinking, new ways of looking at things. The addition of NLP techniques—helps build more control over inner capabilities thus creating a compelling and achievable future with the focus on outcomes</td></tr><tr><td>Is about fixing the Client by understanding and fixing his past</td><td>Is about understanding the past as a framework for the present and Creating the Future.</td></tr><tr><td>Relies on the DSM (the Diagnostic and Statistical Manual of the APA) to diagnose pathology. Operates in a medical or clinical manner</td><td>Remembers that Coaching is a model of learning and potentiality which focuses on the future and its achievable goals and outcomes.</td></tr><tr><td>Generally, because of transference, the therapist will not talk much about himself</td><td>When appropriate the Coach shares much about his experience which is vital to learning.</td></tr><tr><td>In most psychotherapy, the patient’s progress is time consuming and (can be) agonizing</td><td>The changes amaze most clients since they are so fast and so much fun.</td></tr><tr><td>Doctor targets a diagnosis for the patient and then puts forth his training in diagnosis and treatment of disease and then offers a path to healing</td><td>Coach aligns mentally with the Client and then through a discussion identifies the challenges, then provides coaching to move beyond them to create wins. In the process, the Client is responsible to achieve the Outcomes. We realize that the Client ALWAYS has control over his/her results.</td></tr></table>
+| Traditional Therapy | NLP Coaching |
+|----|----|
+| Generally through conversation, encourages the patient to talk about and thereby resolve old pain. The focus is on reliving pain and symptoms to get rid of them | Helps Client to discover the process by which s/he prevents the achievement of goals and objectives and learn new ways of thinking, new ways of looking at things. The addition of NLP techniques---helps build more control over inner capabilities thus creating a compelling and achievable future with the focus on outcomes |
+| Is about fixing the Client by understanding and fixing his past | Is about understanding the past as a framework for the present and Creating the Future. |
+| Relies on the DSM (the Diagnostic and Statistical Manual of the APA) to diagnose pathology. Operates in a medical or clinical manner | Remembers that Coaching is a model of learning and potentiality which focuses on the future and its achievable goals and outcomes. |
+| Generally, because of transference, the therapist will not talk much about himself | When appropriate the Coach shares much about his experience which is vital to learning. |
+| In most psychotherapy, the patient's progress is time consuming and (can be) agonizing | The changes amaze most clients since they are so fast and so much fun. |
+| Doctor targets a diagnosis for the patient and then puts forth his training in diagnosis and treatment of disease and then offers a path to healing | Coach aligns mentally with the Client and then through a discussion identifies the challenges, then provides coaching to move beyond them to create wins. In the process, the Client is responsible to achieve the Outcomes. We realize that the Client ALWAYS has control over his/her results. |
 
 {{< pagebreak >}}
 NLP COACHING vs. TRADITIONAL CONSULTING
@@ -5985,6 +6331,7 @@ NLP COACHING
 The first thing that surprised the Client in NLP Coaching is that we don't spend a lot of time wallowing about "the problem". We focus in discovering the structure of what prevents the Client from achieving his goals and changing the structure to make the goals achievable. NLP Coaching does not focus on the Client's life but on his future goals and objectives and the overall development and growth of the individual during the process of achieving those objectives.
 
 {{< pagebreak >}}
+
 # EXAMPLE OF A COACHING SESSION AGREEMENT
 
 This agreement is intended to only provide a framework for a coaching agreement. You should make sure that it is a valid legal document by having a lawyer review it.
@@ -6017,6 +6364,7 @@ Coach: ___________________________ Date: ___________
 Client: ___________________________ Date: ___________
 
 {{< pagebreak >}}
+
 # BUSINESS PROCESS CONSULTING FRAMES
 
 ## 1. PERCEPTION IS PROJECTION:
@@ -6084,6 +6432,7 @@ In the process of doing something either you support it, or you sabotage it. Our
 As a Coach, watch out for clients who do the tasking in shades of gray. And if they really believe that they can't do it to 100%, it may be that they don't want to assume responsibility for their success. 100% means total support and commitment to oneself. That means total support.
 
 {{< pagebreak >}}
+
 # TYPE OF FEEDBACK
 
 The NLP Coach uses two types of feedback – the second type is being taught at the Master Practitioner NLP Coach level.
@@ -6095,6 +6444,7 @@ The NLP Coach uses two types of feedback – the second type is being taught at 
 - “Overall you did...(positive statement)”
 
 {{< pagebreak >}}
+
 # THE NLP COACHING CYCLE
 
 In an ongoing coaching relationship it is important to create of sense of ongoingness as well as to have milestones and goals. Each week when you meet with the Client at the end of the session it is important that you and he establish a vision of what’s going to happen next week, next month, next year.
