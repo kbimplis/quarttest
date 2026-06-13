@@ -982,60 +982,44 @@ In the following sentences, please state what is presupposed and also identify t
 # HIERARCHY OF IDEAS
 ## THE MODEL
 
-Meta K-Type
-
-### Chunking Up
+```{=latex}
+\begin{center}\textit{Meta K-Type}\end{center}
+\noindent
+\begin{minipage}[t]{0.46\textwidth}
+\vspace{0pt}
+\begin{center}
+$\uparrow$\\[0.2em]
+{\large\textbf{Chunking Up}}\\[0.2em]
 Agreement
+\end{center}
+\textbf{"What is this an Example of?"}\\
+\textbf{"For What Purpose...?"}\\
+\textbf{"What is your intention...?"}
 
-**"What is this an Example of?"**
-**"For What Purpose...?"**
-**"What is your intention...?"**
-
+\vspace{0.6em}
 In Mediation, chunk up to get agreement. Chunk-up until you get a Nominalization.
 
-**The Structure of Intuition**: The ability to chunk-up to find connections &amp; relationships, and then to chunk back down &amp; relate to the current situation. It's rare to find a large chunker who sorts for information -- they are usually small chunkers.
+\vspace{0.6em}
+\underline{\textbf{The Structure of Intuition:}} The ability to chunk-up to find connections \& relationships, and then to chunk back down \& relate to the current situation. It's rare to find a large chunker who sorts for information --- they are usually small chunkers.
 
-**"What are examples of this?"**
-**"What specifically...?"**
--- any Meta Model Question
+\vspace{0.6em}
+\textbf{"What are examples of this?"}\\
+\textbf{"What specifically...?"}\\
+--- any Meta Model Question
 
-{{< pagebreak >}}
-
-### In Trance
-Intuitor
-
-### Big Picture
-Abstract—Milton Model
-
-The Structure of Overwhelm: Too Big Chunks
-
-Existence
-Movement
-Transportation
-
-Buses -- Boats -- Cars -- Planes -- Trains
-
-Classes &amp; Categorics
-- BMW -- Pontiac
-- Fiero
-- GT
-
-Parts
-- Wheels -- Doors
-- Hub Caps
-- Lug Nuts
-
-The Structure of Nit-Picking: Chunking Down and Mismatching
-
-Specific — Meta Model
-
-Details
-- Sensor
-
-**Out of Trance**
-
-Details &amp; Distinctions
-Chunking Down
+\vfill
+\begin{center}
+{\large\textbf{Details \& Distinctions}}\\[0.2em]
+{\large\textbf{Chunking Down}}\\[0.2em]
+$\downarrow$
+\end{center}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.50\textwidth}
+\vspace{0pt}
+\includegraphics[width=\linewidth]{assets/hierarchy_tree.jpg}
+\end{minipage}
+```
 
 {{< pagebreak >}}
 \rightline{\small 40}
